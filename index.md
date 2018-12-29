@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/vxapp/vxapp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://vxapp.github.io">
+  <img src="https://avatars0.githubusercontent.com/u/46240904?s=82" alt="vxapp logo" title="wechat mini-program framework" align="right" />
+</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## vxapp project
 
-### Markdown
+> wechat mini-program framework
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Features
 
-```markdown
-Syntax highlighted code block
++ @vxapp/cli 提供创建小程序项目、小程序开发者工具登录、预览、发布
++ @vxapp/wxjs 支持打包构建基于NPM包的小程序代码
++ @vxapp/wxml 提供对微信小程序的 WXML 模版 AST 解析、遍历、转换
++ @vxapp/wxss 提供对微信小程序的 WXSS 样式文件进行依赖分析、转换
 
-# Header 1
-## Header 2
-### Header 3
+### Get Started
 
-- Bulleted
-- List
+[📺 Watch Video Guide on YouTube](https://youtu.be/zoGTMupm1C0)
 
-1. Numbered
-2. List
+### License
 
-**Bold** and _Italic_ and `Code` text
+This project is under MIT license.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vxapp/vxapp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
